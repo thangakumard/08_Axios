@@ -1,0 +1,22 @@
+{
+  "name": "axois_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thangakumard/08_Axios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thangakumard/08_Axios/issues"
+  },
+  "homepage": "https://github.com/thangakumard/08_Axios#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
