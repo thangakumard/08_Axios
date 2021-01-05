@@ -9,8 +9,8 @@ axios.get('http://localhost:3000/users')
     })
 
 axios.post('http://localhost:3000/users' , {
-      firstName: "Pranav",
-      lastName: "pranav@gmail.com",
+      firstName: "test",
+      lastName: "test@gmail.com",
       age: 34,
       companyId: "1"
 }).then(function(response){
